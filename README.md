@@ -30,3 +30,4 @@ The idea of content based methods is to try to build a model, based on the avail
 
 
 
+##### This repository has different applications of Recommender Systems.
